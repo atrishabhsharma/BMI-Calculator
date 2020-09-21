@@ -14,3 +14,22 @@ const kHeavytext = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
 );
+
+const kLargeButtonStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kTitleStyle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kResultStyle = TextStyle(
+    fontSize: 22, color: Color(0xff24D876), fontWeight: FontWeight.bold);
+
+const kBMIStyle = TextStyle(fontSize: 100, fontWeight: FontWeight.bold);
+
+const kBodyStyle = TextStyle(
+  fontSize: 22,
+);
